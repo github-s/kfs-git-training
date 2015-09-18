@@ -30,7 +30,7 @@ public class AICPAFunction {
 
 
     /**
-     * Gets the financialAicpaFunctionCode attribute.
+     * Gets the financialAicpaFunctionCode attribute. It works good.
      * 
      * @return Returns the financialAicpaFunctionCode
      */
